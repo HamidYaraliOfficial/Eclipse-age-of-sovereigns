@@ -68,8 +68,3 @@ This project is **proprietary, all rights reserved**. Public visibility on GitHu
 
 本 پروژه تحت مجوز اختصاصی است: **تمامی حقوق محفوظ است.** / 本项目采用专有许可：**保留所有权利。**
 
-## Suggested GitHub repository / نام پیشنهادی مخزن / 建议仓库名
-
-`eclipse-age-of-sovereigns`
-
-Suggested URL: `https://github.com/HamidYaraliOfficial/eclipse-age-of-sovereigns` (suggested only; create the repository in GitHub before pushing).
